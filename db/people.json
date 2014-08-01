@@ -1,0 +1,6 @@
+[
+{ "name":"Bob Smith", "phone":"615-555-1212", "color":"pink", "email":"bob@aol.com", "website":"http://google.com" }
+{ "name":"Alice Smith", "phone":"615-555-1212", "color":"red", "email":"alice@aol.com", "website":"http://facebook.com" }
+{ "name":"Sara Smith", "phone":"615-555-1212", "color":"blue", "email":"sara@aol.com", "website":"http://wikipedia.com" }
+{ "name":"Mike Smith", "phone":"615-555-1212", "color":"green", "email":"mike@aol.com", "website":"http://yahoo.com" }
+]

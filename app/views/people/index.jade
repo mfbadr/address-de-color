@@ -14,3 +14,13 @@ html
         li: a(href='/faq') FAQ
         li: a(href='/contact') contact
         li: a(href='/people') People
+    each person in people
+      .person
+        ul
+          li=person.name
+          li=person.phone
+          li=person.color
+          li=person.website
+          li=person.email
+
+
