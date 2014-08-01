@@ -1,0 +1,37 @@
+nav{
+  list-style:none;
+}
+
+nav ul li{
+  display:inline-block;
+  margin: 0 10px;
+  font-size: 25px;
+}
+
+.person{
+  border: 2px solid black;
+  margin: 0 15px;
+  display: inline-block;
+}
+
+.person ul{
+  list-style:none;
+  margin: 0;
+}
+
+
+.person ul li:first-of-type{
+  font-size:25px;
+  background-color: grey;
+  display: inline-block;
+  margin: 0;
+}
+
+.person ul li{
+  margin: 0 auto;
+}
+
+.person:hover{
+  border-style:dotted;
+  border-color:pink;
+}
