@@ -1,0 +1,32 @@
+{
+  "name": "address-de-color",
+  "version": "0.0.0",
+  "description": "address-de-color ================",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mfbadr/address-de-color"
+  },
+  "author": "Mikey Badr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfbadr/address-de-color/issues"
+  },
+  "homepage": "https://github.com/mfbadr/address-de-color",
+  "dependencies": {
+    "body-parser": "^1.5.2",
+    "express": "^4.7.2",
+    "jade": "^1.5.0",
+    "mongodb": "^1.4.8",
+    "morgan": "^1.2.2"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jshint-stylish": "^0.4.0"
+  }
+}
